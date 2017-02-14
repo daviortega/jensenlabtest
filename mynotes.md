@@ -1,3 +1,5 @@
+# This is the starting point of the tutorial... 
+
 ls —> contents
 
 cd —> change directory
