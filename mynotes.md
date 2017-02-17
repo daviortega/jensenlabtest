@@ -10,5 +10,11 @@ permission problem —> probably ssh key
 
 git clone “[insert from github]"
 
+* bullet point
+
+**bold**
+
+*italics*
+
 >check how to add images, make basic tutorial on first steps
 fgfgfhgfh
