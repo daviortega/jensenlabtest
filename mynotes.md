@@ -10,11 +10,9 @@ permission problem —> probably ssh key
 
 git clone “[insert from github]"
 
-* bullet point
-
-**bold**
-
-*italics*
-
 >check how to add images, make basic tutorial on first steps
-fgfgfhgfh
+
+Python dictionary:
+* example: a = ['first': 'Tony', 'last': 'Kukavica']
+* command: a['first']
+* output: 'Tony'
