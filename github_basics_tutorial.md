@@ -10,6 +10,7 @@ Naming a file in VisualStudioCode:
 
 
 Learning which symbols create what font format.
+\` *--> inicates snippet of code*
 
 Why NPM (node package manager) is important
 
@@ -21,8 +22,8 @@ Why NPM (node package manager) is important
 
 * *Command: "npm install [name of package]" --> automatically begins download, no dependency*
 
-* *Command inside Directory: "npm init" --> will allow us to install npm packages with dependency, make sure command is run inside correct directory*
-> use "cd," etc. to find correct directory
+* *Command inside Directory:* `npm init` *--> will allow us to install npm packages with dependency, make sure command is run inside correct directory*
+* *Use* `cd` *etc. to find correct directory*
 
 * *Command to Install with Dependency: "ipm install [name of package] --save --> links current package to downloaded package*
 
