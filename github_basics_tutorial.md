@@ -32,7 +32,9 @@ Why NPM (node package manager) is important
 * *Command inside Directory:* `npm init` *--> will allow us to install npm packages with dependency, make sure command is run inside correct directory*
 * *Use* `cd` *etc. to find correct directory*
 
-* *Command to Install with Dependency: "ipm install [name of package] --save --> links current package to downloaded package*
+* *Command to Install with Dependency:* `npm install [name of package] --save`  *--> links current package to downloaded package*
+
+* *Cloned Packages:* `npm install` *--> downloads packages on which cloned package is dependent.*
 
 
 Reference to cluster algorithms Wikipedia page:
