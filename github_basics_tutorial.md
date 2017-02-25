@@ -10,7 +10,10 @@ Naming a file in VisualStudioCode:
 
 
 Learning which symbols create what font format.
+
 \` *--> inicates snippet of code*
+
+<[insert command]> *--> HTML format*
 
 Why NPM (node package manager) is important
 
