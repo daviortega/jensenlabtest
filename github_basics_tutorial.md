@@ -5,6 +5,8 @@
 How to visulize updates:
 *Type [command-shift-v]*
 
+
+
 Naming a file in VisualStudioCode:
 *MUST have ".md" at end of filename, otherwise Github will not register.*
 
@@ -14,6 +16,8 @@ Learning which symbols create what font format.
 \` *--> inicates snippet of code*
 
 <[insert command]> *--> HTML format*
+
+
 
 Why NPM (node package manager) is important
 
@@ -31,4 +35,5 @@ Why NPM (node package manager) is important
 * *Command to Install with Dependency: "ipm install [name of package] --save --> links current package to downloaded package*
 
 
-Reference to cluster algorithms Wikipedia page
+Reference to cluster algorithms Wikipedia page:
+*https://en.wikipedia.org/wiki/Cluster_analysis#Algorithms*
