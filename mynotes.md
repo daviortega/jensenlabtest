@@ -15,8 +15,9 @@ Python dictionary:
 * command: a['first']
 * output: 'Tony'
 
-**FOR NEXT MEETING 02/23:**
->check how to add images in Markdown (screenshots, etc.), write tutorial on learning the basics, become assimilated with Github
-*(WORKING ON POWERPOINT)*
+**FOR NEXT MEETING:**
+>Complete Mardown tutorial
 
->learn up to "forking" on Github *(DONE)*
+>Begin working on own tutorial about learning Github that will make sense to like-minded people
+
+
