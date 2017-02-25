@@ -8,7 +8,7 @@ Navigating Directories
 `cd [name of directory]` *--> go to specific directory*
 `cd -` *--> go to previous directory (very useful!)*
 `ls` *--> lists contents of current directory*
-
+`pwd` *--> gives filepath to current directory*
 
 How to visulize updates:
 *Type [command-shift-v]*
