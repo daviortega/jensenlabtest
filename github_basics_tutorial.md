@@ -7,7 +7,7 @@ Navigating Directories
 `cd ..` *--> go up one directory*
 `cd [name of directory]` *--> go to specific directory*
 `cd -` *--> go to previous directory (very useful!)*
-`ls` *--> lists contents of current directory*
+`ls` *"list" --> lists contents of current directory*
 `pwd` *--> gives filepath to current directory*
 `rm -rf [filename]` *--> deletes a file in current directory (nuclear command)*
 
