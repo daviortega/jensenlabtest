@@ -5,6 +5,9 @@
 How to visulize updates:
 *Type [command-shift-v]*
 
+Naming a file in VisualStudioCode:
+*MUST have ".md" at end of filename, otherwise Github will not register.*
+
 
 Learning which symbols create what font format.
 
