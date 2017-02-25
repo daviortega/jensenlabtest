@@ -3,6 +3,12 @@
 [input all of this into markdown]
 
 
+VisualCode Commands
+```
+ctrl-`
+```
+*-->pulls up terminal window*
+
 Navigating Directories
 `cd ..` *--> go up one directory*
 `cd [name of directory]` *--> go to specific directory*
