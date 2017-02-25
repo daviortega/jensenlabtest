@@ -1,4 +1,4 @@
-** IDEAS **
+**IDEAS**
 
 [input all of this into markdown]
 
