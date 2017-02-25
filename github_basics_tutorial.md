@@ -9,6 +9,7 @@ Navigating Directories
 `cd -` *--> go to previous directory (very useful!)*
 `ls` *--> lists contents of current directory*
 `pwd` *--> gives filepath to current directory*
+`rm -rf [filename]` *--> deletes a file in current directory (nuclear command)*
 
 How to visulize updates:
 *Type [command-shift-v]*
@@ -26,6 +27,11 @@ Learning which symbols create what font format.
 <[insert command]> *--> HTML format*
 
 
+
+Cloning from Github
+`git clone [repository SSH key]` *--> clones Github package into current directory
+
+**Make sure you are in correct directory before installing!**
 
 Why NPM (node package manager) is important
 
