@@ -2,6 +2,14 @@
 
 [input all of this into markdown]
 
+
+Navigating Directories
+`cd ..` *--> go up one directory*
+`cd [name of directory]` *--> go to specific directory*
+`cd -` *--> go to previous directory (very useful!)*
+`ls` *--> lists contents of current directory*
+
+
 How to visulize updates:
 *Type [command-shift-v]*
 
