@@ -9,7 +9,12 @@
 * learning which symbols create what font format.
 
 * Why NPM (node package manager) is important
-*goal: use other people's code*
+
+**Goal:** *Use other people's code*
+
+*Repository that allows the user to search for packages of code that perform various tasks.*
+
+*Essentially acts as a search engine for code*
 
 
-* Cluster algorithms
+* Reference to cluster algorithms Wikipedia page
