@@ -16,7 +16,7 @@ ctrl-`
 `rm -rf [filename]` *--> deletes a file in current directory (nuclear command)*
 
 ##Visualizing Updates in VisualStudioCode:
-*Type [command-shift-v]*
+`[command-shift-v]` *--> will open up a new window with the current output*
 
 
 
@@ -45,9 +45,10 @@ ctrl-`
 
 * *Essentially acts as a search engine for code*
 
-* *Command: "npm install [name of package]" --> automatically begins download, no dependency*
+* *Command:* `npm install [name of package]` *--> automatically begins download, no dependency*
 
 * *Command inside Directory:* `npm init` *--> will allow us to install npm packages with dependency, make sure command is run inside correct directory*
+
 * *Use* `cd` *etc. to find correct directory*
 
 * *Command to Install with Dependency:* `npm install [name of package] --save`  *--> links current package to downloaded package*
