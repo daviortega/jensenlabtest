@@ -1,6 +1,4 @@
-**IDEAS**
-
-[input all of this into markdown]
+#Introduction to Github & Markdown
 
 
 VisualCode Commands
