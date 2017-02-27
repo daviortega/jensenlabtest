@@ -16,7 +16,7 @@ ctrl-`
 `rm -rf [filename]` *--> deletes a file in current directory (nuclear command)*
 
 ##Visualizing Updates in VisualStudioCode:
-`[command-shift-v]` *--> will open up a new window with the current output*
+`command-shift-v` *--> will open up a new window with the current output*
 
 
 
