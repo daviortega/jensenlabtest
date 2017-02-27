@@ -1,13 +1,13 @@
 #Introduction to Github & Markdown
 
 
-VisualCode Commands
+##VisualCode Commands
 ```
 ctrl-`
 ```
 *-->pulls up terminal window*
 
-Navigating Directories
+##Navigating Directories
 `cd ..` *--> go up one directory*
 `cd [name of directory]` *--> go to specific directory*
 `cd -` *--> go to previous directory (very useful!)*
@@ -15,16 +15,16 @@ Navigating Directories
 `pwd` *--> gives filepath to current directory*
 `rm -rf [filename]` *--> deletes a file in current directory (nuclear command)*
 
-How to visulize updates:
+##Visualizing Updates in VisualStudioCode:
 *Type [command-shift-v]*
 
 
 
-Naming a file in VisualStudioCode:
+##Naming Files in VisualStudioCode:
 *MUST have ".md" at end of filename, otherwise Github will not register.*
 
 
-Learning which symbols create what font format.
+##Font Formatting in Markdown:
 
 \` *--> inicates snippet of code*
 
@@ -32,12 +32,12 @@ Learning which symbols create what font format.
 
 
 
-Cloning from Github
+##Cloning from Github
 `git clone [repository SSH key]` *--> clones Github package into current directory
 
-**Make sure you are in correct directory before installing!**
+**IMPORTANT: Make sure you are in correct directory before installing!**
 
-Why NPM (node package manager) is important
+##What is NPM and why is it important?
 
 * **Goal:** *Use other people's code*
 
