@@ -16,7 +16,7 @@ Python dictionary:
 * output: 'Tony'
 
 **FOR NEXT MEETING:**
->Complete Mardown tutorial
+>Complete Markdown tutorial
 
 >Begin working on own tutorial about learning Github that will make sense to like-minded people
 
