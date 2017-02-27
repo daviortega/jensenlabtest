@@ -55,5 +55,5 @@ ctrl-`
 * *Cloned Packages:* `npm install` *--> downloads packages on which cloned package is dependent.*
 
 
-Reference to cluster algorithms Wikipedia page:
+###Cluster Algorithms:
 *https://en.wikipedia.org/wiki/Cluster_analysis#Algorithms*
