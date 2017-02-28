@@ -5,6 +5,8 @@ Python dictionary data structure:
 * command: a['first']
 * output: 'Tony'
 
+
+
 ###**For 02/27 Meeting:**
 >1. Complete Markdown tutorial
 
@@ -13,6 +15,7 @@ Python dictionary data structure:
 >3. Look at "Biowonks Github"
 
 >4. Figure out how to get multiple line breaks in Markdown
+
 
 
 ###**Notes 02/27**:
@@ -42,6 +45,7 @@ Disadvantages:
 -Breaks are indicated by `>[headerX]` where X is a number
 
 *_Goal:_* Develop FastaReader.js
+
 
 
 ###**For 03/04 Meeting**:
