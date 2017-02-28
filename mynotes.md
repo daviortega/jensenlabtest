@@ -52,13 +52,15 @@ Disadvantages:
 
 ##**For 03/04 Meeting**:
 
->1. Write code with proper "FastaReader" constructor
+>1. Go to Davi's "phyprojs" repository, click "Fork," and clone the forked repository from personal account
 
->2. Create method headers required by the tests.
+>2. Write code with proper "FastaReader" constructor
 
->3. Continue coding until the tests are passing.
+>3. Create method headers required by the tests.
 
->4. *Extra:* Read more about bioinformatics --> familiarize with concepts, etc.
+>4. Continue coding until the tests are passing.
 
->5. *Extra:* Read about Copyleft, Copyright, and public domain --> Davi considering using this for PhyPro
+>5. *Extra:* Read more about bioinformatics --> familiarize with concepts, etc.
+
+>6. *Extra:* Read about Copyleft, Copyright, and public domain --> Davi considering using this for PhyPro
 
