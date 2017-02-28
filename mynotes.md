@@ -35,5 +35,7 @@ Disadvantages:
 
 ###**For 03/04 Meeting**:
 
->1.
+>1. Read about Copyleft --> Davi considering using this for PhyPro
+
+>2. Read more about bioinformatics --> familiarize with concepts, etc.
 
