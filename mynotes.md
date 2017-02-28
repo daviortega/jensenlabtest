@@ -1,16 +1,6 @@
-# This is the starting point of the tutorial... 
+##Meeting Notes
 
-ls —> contents
-
-cd —> change directory
-
-pwd —> current location
-
-permission problem —> probably ssh key
-
-git clone “[insert from github]"
-
-Python dictionary:
+Python dictionary data structure:
 * example: a = ['first': 'Tony', 'last': 'Kukavica']
 * command: a['first']
 * output: 'Tony'
