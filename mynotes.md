@@ -29,7 +29,7 @@ Python dictionary:
 Writing & running tests
 
 -All test files must be formatted: [filename/name of constructor class].tests.js
--Command to run: `npm test`
+-Command to run: `npm test` (need to be in correct directory)
 -Use single quotes, no double quotes, even then double quotes will work to begin with
 
 Advantages:
