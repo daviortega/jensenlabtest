@@ -32,6 +32,8 @@ Disadvantages:
 -Slower, sometimes less efficient than writing and debugging
 -Frequently changing structure
 
+*_Goal:_* Use this development method to code PhyPro in Javascript (currently on in Python)
+
 
 ###**For 03/04 Meeting**:
 
