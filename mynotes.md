@@ -35,7 +35,7 @@ Disadvantages:
 * Slower, sometimes less efficient than writing and debugging
 * Frequently changing structure
 
-*_Goal:_* Use this development method to code PhyPro in Javascript (currently on in Python)
+**_Goal:_** Use this development method to code PhyPro in Javascript (currently on in Python)
 
 
 ###*Topic: FASTA Sequencing Format*
@@ -44,7 +44,8 @@ Disadvantages:
 * Line breaks don't have meaning
 * Breaks are indicated by `>[headerX]` where X is a number
 
-*_Goal:_* Develop FastaReader.js
+**_Goal:_** Develop FastaReader.js
+
 _Tip: `[command]-d` will select the next occurance of a selected String_ 
 
 
