@@ -5,7 +5,7 @@ Python dictionary data structure:
 * command: a['first']
 * output: 'Tony'
 
-###**FOR 02/27 MEETING:**
+###**For 02/27 Meeting:**
 >1. Complete Markdown tutorial
 
 >2. Begin working on own tutorial about learning Github that will make sense to like-minded people
@@ -15,7 +15,7 @@ Python dictionary data structure:
 >4. Figure out how to get multiple line breaks in Markdown
 
 
-###**NOTES 02/27**
+###**Notes 02/27**
 Writing & running tests
 
 -All test files must be formatted: [filename/name of constructor class].tests.js
@@ -31,7 +31,7 @@ Disadvantages:
 -Frequently changing structure
 
 
-###**FOR 03/04 MEETING**
+###**For 03/04 Meeting**
 
 >1.
 
