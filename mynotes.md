@@ -41,9 +41,7 @@ Disadvantages:
 ###*Topic: FASTA Sequencing Format*
 
 * File begins with `>header`
-
 * Line breaks don't have meaning
-
 * Breaks are indicated by `>[headerX]` where X is a number
 
 *_Goal:_* Develop FastaReader.js
