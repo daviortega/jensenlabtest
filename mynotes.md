@@ -1,4 +1,4 @@
-##Meeting Notes
+#Meeting Notes
 
 Python dictionary data structure:
 * example: a = ['first': 'Tony', 'last': 'Kukavica']
@@ -7,7 +7,7 @@ Python dictionary data structure:
 
 
 
-###**For 02/27 Meeting:**
+##**For 02/27 Meeting:**
 >1. Complete Markdown tutorial
 
 >2. Begin working on own tutorial about learning Github that will make sense to like-minded people
@@ -18,8 +18,8 @@ Python dictionary data structure:
 
 
 
-###**Notes 02/27**:
-*Topic: Test-Drive Development*
+##**Notes 02/27**:
+###*Topic: Test-Drive Development*
 
 -All test files must be formatted: [filename/name of constructor class].tests.js
 -Command to run: `npm test` (need to be in correct directory)
@@ -38,7 +38,7 @@ Disadvantages:
 *_Goal:_* Use this development method to code PhyPro in Javascript (currently on in Python)
 
 
-*Topic: FASTA Sequencing Format*
+###*Topic: FASTA Sequencing Format*
 
 -File begins with `>header`
 -Line breaks don't have meaning
@@ -49,7 +49,7 @@ _Tip: `[command]-d` will select the next occurance of a selected String_
 
 
 
-###**For 03/04 Meeting**:
+##**For 03/04 Meeting**:
 
 >1. Read more about bioinformatics --> familiarize with concepts, etc.
 
