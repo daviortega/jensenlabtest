@@ -1,11 +1,11 @@
-##Meeting Notes
+##Davi-Tony Meeting Notes
 
 Python dictionary data structure:
 * example: a = ['first': 'Tony', 'last': 'Kukavica']
 * command: a['first']
 * output: 'Tony'
 
-**FOR 02/27 MEETING:**
+###**FOR 02/27 MEETING:**
 >1. Complete Markdown tutorial
 
 >2. Begin working on own tutorial about learning Github that will make sense to like-minded people
@@ -15,7 +15,7 @@ Python dictionary data structure:
 >4. Figure out how to get multiple line breaks in Markdown
 
 
-**NOTES 02/27**
+###**NOTES 02/27**
 Writing & running tests
 
 -All test files must be formatted: [filename/name of constructor class].tests.js
@@ -31,7 +31,7 @@ Disadvantages:
 -Frequently changing structure
 
 
-**FOR 03/04 MEETING**
+###**FOR 03/04 MEETING**
 
 >1.
 
