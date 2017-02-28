@@ -46,7 +46,7 @@ Disadvantages:
 
 **_Goal:_** Develop FastaReader.js
 
-_Tip: `[command]-d` will select the next occurance of a selected String_ 
+**_Tip:_** `[command]-d` will select the next occurance of a selected String
 
 
 
