@@ -32,3 +32,11 @@ Writing & running tests
 -Command to run: `npm test`
 -Use single quotes, no double quotes, even then double quotes will work to begin with
 
+Advantages:
+-Simultaneously test while developing code
+-Code is precisely tailored to perform desired functions
+
+Disadvantages:
+-Slower, sometimes less efficient than writing and debugging
+-Frequently changing structure
+
