@@ -15,7 +15,7 @@ Python dictionary:
 * command: a['first']
 * output: 'Tony'
 
-**FOR NEXT MEETING:**
+**FOR NEXT MEETING (02/27):**
 >Complete Markdown tutorial
 
 >Begin working on own tutorial about learning Github that will make sense to like-minded people
@@ -23,5 +23,9 @@ Python dictionary:
 >Look at "Biowonks Github"
 
 >Figure out how to get multiple line breaks in Markdown
+
+
+**NOTES 02/27**
+
 
 
