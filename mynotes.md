@@ -1,6 +1,6 @@
 #Meeting Notes
 
-Python dictionary data structure:
+###*Topic: Dictionaries in Python:*
 * example: a = ['first': 'Tony', 'last': 'Kukavica']
 * command: a['first']
 * output: 'Tony'
@@ -19,7 +19,7 @@ Python dictionary data structure:
 
 
 ##**Notes 02/27**:
-###*Topic: Test-Drive Development*
+###*Topic: Test-Driven Development*
 
 * All test files must be formatted: [filename/name of constructor class].tests.js
 * Command to run: `npm test` (need to be in correct directory)
