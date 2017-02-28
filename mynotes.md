@@ -16,11 +16,13 @@ Python dictionary data structure:
 
 
 ###**Notes 02/27**:
-Writing & running tests
+*Topic: Test-Drive Development*
 
 -All test files must be formatted: [filename/name of constructor class].tests.js
 -Command to run: `npm test` (need to be in correct directory)
 -Use single quotes, no double quotes, even then double quotes will work to begin with
+-Write specially-formatted comments for methods (include info such as "@param + [description]")
+    --> makes for pseudocode documentation
 
 Advantages:
 -Simultaneously test while developing code
