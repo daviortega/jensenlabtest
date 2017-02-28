@@ -41,6 +41,8 @@ Disadvantages:
 -Line breaks don't have meaning
 -Breaks are indicated by `>[headerX]` where X is a number
 
+*_Goal:_* Develop FASTA reader
+
 
 ###**For 03/04 Meeting**:
 
