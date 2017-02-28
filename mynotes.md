@@ -5,7 +5,7 @@ Python dictionary data structure:
 * command: a['first']
 * output: 'Tony'
 
-**FOR NEXT MEETING (02/27):**
+**FOR 02/27 MEETING:**
 >Complete Markdown tutorial
 
 >Begin working on own tutorial about learning Github that will make sense to like-minded people
