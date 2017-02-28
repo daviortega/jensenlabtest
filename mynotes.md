@@ -15,7 +15,7 @@ Python dictionary data structure:
 >4. Figure out how to get multiple line breaks in Markdown
 
 
-###**Notes 02/27**
+###**Notes 02/27**:
 Writing & running tests
 
 -All test files must be formatted: [filename/name of constructor class].tests.js
@@ -31,7 +31,7 @@ Disadvantages:
 -Frequently changing structure
 
 
-###**For 03/04 Meeting**
+###**For 03/04 Meeting**:
 
 >1.
 
