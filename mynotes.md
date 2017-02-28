@@ -6,13 +6,13 @@ Python dictionary data structure:
 * output: 'Tony'
 
 **FOR 02/27 MEETING:**
->Complete Markdown tutorial
+>1. Complete Markdown tutorial
 
->Begin working on own tutorial about learning Github that will make sense to like-minded people
+>2. Begin working on own tutorial about learning Github that will make sense to like-minded people
 
->Look at "Biowonks Github"
+>3. Look at "Biowonks Github"
 
->Figure out how to get multiple line breaks in Markdown
+>4. Figure out how to get multiple line breaks in Markdown
 
 
 **NOTES 02/27**
@@ -29,4 +29,9 @@ Advantages:
 Disadvantages:
 -Slower, sometimes less efficient than writing and debugging
 -Frequently changing structure
+
+
+**FOR 03/04 MEETING**
+
+>1.
 
