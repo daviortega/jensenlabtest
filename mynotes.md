@@ -21,30 +21,30 @@ Python dictionary data structure:
 ##**Notes 02/27**:
 ###*Topic: Test-Drive Development*
 
-*All test files must be formatted: [filename/name of constructor class].tests.js
-*Command to run: `npm test` (need to be in correct directory)
-*Use single quotes, no double quotes, even then double quotes will work to begin with
-*Write specially-formatted comments for methods (include info such as "@param + [description]")
+* All test files must be formatted: [filename/name of constructor class].tests.js
+* Command to run: `npm test` (need to be in correct directory)
+* Use single quotes, no double quotes, even then double quotes will work to begin with
+* Write specially-formatted comments for methods (include info such as "@param + [description]")
     --> makes for pseudocode documentation
 
 Advantages:
-*Simultaneously test while developing code
-*Code is precisely tailored to perform desired functions
+* Simultaneously test while developing code
+* Code is precisely tailored to perform desired functions
 
 Disadvantages:
-*Slower, sometimes less efficient than writing and debugging
-*Frequently changing structure
+* Slower, sometimes less efficient than writing and debugging
+* Frequently changing structure
 
 *_Goal:_* Use this development method to code PhyPro in Javascript (currently on in Python)
 
 
 ###*Topic: FASTA Sequencing Format*
 
-*File begins with `>header`
+* File begins with `>header`
 
-*Line breaks don't have meaning
+* Line breaks don't have meaning
 
-*Breaks are indicated by `>[headerX]` where X is a number
+* Breaks are indicated by `>[headerX]` where X is a number
 
 *_Goal:_* Develop FastaReader.js
 _Tip: `[command]-d` will select the next occurance of a selected String_ 
