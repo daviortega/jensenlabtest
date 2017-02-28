@@ -37,5 +37,5 @@ Disadvantages:
 
 >1. Read more about bioinformatics --> familiarize with concepts, etc.
 
->2. Read about Copyleft --> Davi considering using this for PhyPro
+>2. Read about Copyleft, Copyright, and public domain --> Davi considering using this for PhyPro
 
