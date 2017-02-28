@@ -45,6 +45,7 @@ Disadvantages:
 -Breaks are indicated by `>[headerX]` where X is a number
 
 *_Goal:_* Develop FastaReader.js
+_Tip: `[command]-d` will select the next occurance of a selected String_ 
 
 
 
