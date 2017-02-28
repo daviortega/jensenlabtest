@@ -35,6 +35,9 @@ Disadvantages:
 *_Goal:_* Use this development method to code PhyPro in Javascript (currently on in Python)
 
 
+*Topic: FASTA Sequencing Format*
+
+
 ###**For 03/04 Meeting**:
 
 >1. Read more about bioinformatics --> familiarize with concepts, etc.
