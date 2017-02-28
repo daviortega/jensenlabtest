@@ -37,6 +37,10 @@ Disadvantages:
 
 *Topic: FASTA Sequencing Format*
 
+-File begins with `>header`
+-Line breaks don't have meaning
+-Breaks are indicated by `>[headerX]` where X is a number
+
 
 ###**For 03/04 Meeting**:
 
