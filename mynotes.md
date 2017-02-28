@@ -1,4 +1,4 @@
-##Davi-Tony Meeting Notes
+##Meeting Notes
 
 Python dictionary data structure:
 * example: a = ['first': 'Tony', 'last': 'Kukavica']
