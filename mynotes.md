@@ -41,7 +41,7 @@ Disadvantages:
 -Line breaks don't have meaning
 -Breaks are indicated by `>[headerX]` where X is a number
 
-*_Goal:_* Develop FASTA reader
+*_Goal:_* Develop FastaReader.js
 
 
 ###**For 03/04 Meeting**:
