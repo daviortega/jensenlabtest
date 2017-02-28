@@ -51,9 +51,11 @@ _Tip: `[command]-d` will select the next occurance of a selected String_
 
 ##**For 03/04 Meeting**:
 
->1. Write code with proper "FastaReader" constructor as well as start creating the methods required by the given tests.
+>1. Write code with proper "FastaReader" constructor
 
->2. Read more about bioinformatics --> familiarize with concepts, etc.
+>2. Create method headers required by the tests.
 
->2. Read about Copyleft, Copyright, and public domain --> Davi considering using this for PhyPro
+>3. Read more about bioinformatics --> familiarize with concepts, etc.
+
+>4. Read about Copyleft, Copyright, and public domain --> Davi considering using this for PhyPro
 
