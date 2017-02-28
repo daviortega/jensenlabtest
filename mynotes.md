@@ -56,7 +56,9 @@ Disadvantages:
 
 >2. Create method headers required by the tests.
 
->3. Read more about bioinformatics --> familiarize with concepts, etc.
+>3. Continue coding until the tests are passing.
 
->4. Read about Copyleft, Copyright, and public domain --> Davi considering using this for PhyPro
+>4. *Extra:* Read more about bioinformatics --> familiarize with concepts, etc.
+
+>5. *Extra:* Read about Copyleft, Copyright, and public domain --> Davi considering using this for PhyPro
 
